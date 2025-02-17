@@ -24,7 +24,7 @@ itsdangerous==2.2.0
 Jinja2==3.1.5
 MarkupSafe==3.0.2
 proto-plus==1.26.0
-python==3.6
+python-3.9.10
 protobuf==5.29.3
 pyasn1==0.6.1
 pyasn1_modules==0.4.1
